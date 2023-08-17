@@ -3,7 +3,7 @@
 ## Folder Structure
 my_flutter_project/
 ├── lib/
-│   ├── features/
+│   ├── data/
 │   │   ├── datasources/
 │   │   │   ├── remote_data_source.dart
 │   │   │   └── local_data_source.dart
