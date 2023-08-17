@@ -1,6 +1,7 @@
 # QR-generator-clean-code-architecture
 
 ## Folder Structure
+```bash
 my_flutter_project/
 ├── lib/
 │   ├── data/
@@ -47,3 +48,4 @@ my_flutter_project/
 ├── ios/
 ├── pubspec.yaml
 └── README.md
+```
